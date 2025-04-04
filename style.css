@@ -18,3 +18,22 @@ h1{
  box-shadow: 0 0 10px ;
  position: relative;
 }
+
+header{
+ text-align: center;
+ padding-bottom: 20px;
+ border-right: 2px solid #ed1515;
+ border-bottom: 4px solid #ed1515;
+}
+
+main {
+  padding: 20px;
+}
+
+footer{
+  text-align: center;
+  padding-top: 20px;
+  border-right: 2px solid #ed1515;
+  border-bottom: 4px solid #ed1515;
+  color: #000;
+}
