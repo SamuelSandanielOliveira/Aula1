@@ -3,3 +3,15 @@ body{
     color: rgb(0, 0, 0);
     font-family: sans-serif;
 }
+h1{
+  font-size: 68px ;
+  color: black;
+
+}
+.conteiner {
+ max-width: 960px;
+ margin: 20px auto;
+ padding: 20px;
+ box-shadow: 0 0 10px ;
+ position: relative;
+}
